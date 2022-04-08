@@ -59,7 +59,6 @@ self.addEventListener('fetch', e =>{
 });
 
 
-
 //console.log("Hola desde el sw UTVAM");
 
 //self.addEventListener('fetch' , event => {
