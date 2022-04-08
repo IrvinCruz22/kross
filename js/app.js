@@ -3,6 +3,6 @@ if(navigator.serviceWorker){
     //alert("Soporta el SW")
     navigator.serviceWorker.register("/kross/sw.js");
 }
-else{
+else {
     alert(":( no soporta el SW");
 }
